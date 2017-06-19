@@ -327,3 +327,5 @@ TheProgram/Saved/
 TheProgram/Binaries/
 TheProgram/Intermediate/
 TheProgram/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+TheProgram/Content/FirstPersonBP/Maps/Game_Level_1_BuiltData.uasset
+TheProgram/Content/Level/Game_Level_1_BuiltData.uasset
